@@ -1,0 +1,13 @@
+torch>=2.2
+torchvision>=0.17
+tqdm>=4.66
+pandas>=2.2
+numpy>=1.26
+Pillow>=10.3
+scikit-learn>=1.5
+matplotlib>=3.8
+pyyaml>=6.0
+# For YOLOv5 training via Ultralytics engine (installs YOLOv8; we use detect task similarly)
+ultralytics>=8.3
+flask>=3.0
+gunicorn>=21.2
